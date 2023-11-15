@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oldmajor19" alt="oldmajor19" /></a> </p>
 
-- 👯 I’m looking to collaborate on **On building efficient and reliable machine learning systems**
+- 👯 I’m looking to collaborate on **building trustworthy, fair, efficient and robust machine learning systems**
 
 - 💬 Ask me about **AI**
 
